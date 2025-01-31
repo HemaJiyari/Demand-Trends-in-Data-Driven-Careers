@@ -93,3 +93,21 @@ The job market for **data-related roles** is evolving rapidly with AI advancemen
 🌎 **Expanding Scope** beyond **Bay Area** to **national & global levels**.  
 
 ---
+## 📁 Repository Contents
+📂 **Job_Scraping.ipynb** – Jupyter Notebook for web scraping job postings using Selenium.  
+📂 **visualization_main.ipynb** – Jupyter Notebook containing all visualizations and insights.  
+📂 **README.md** – Project documentation, objectives, and setup instructions.  
+
+📌 **Refer to the dataset files in the repository for raw, processed, and final data used in this analysis.**  
+
+---
+
+## 🎤 Conclusion
+Understanding the **job market for data-related roles** is essential for professionals, hiring managers, and analysts.  
+This project utilizes **web scraping, data cleaning, and visualization** to provide insights into:
+- The **most in-demand job roles** post-pandemic.  
+- **Salary trends** based on experience levels.  
+- How **AI is influencing the job market** in the Bay Area.  
+
+📌 **Check out the full analysis in our Jupyter Notebooks!**  
+
